@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+    --font: 'DM Sans', sans-serif;
+}
+
+:root {
+    --black: #232322;
+    --black1: #000000;
+    --black2: #1B2026;
+    --gray: #bbbbbb;
+    --gray1: #777777;
+    --white: #FFFFFF;
+    --white1: #EFEFEF;
+    --yellow1: #F7D9C4;
+    --orange: #FF8484;
+}
+
+
+:root {
+    --size: 17.6px;
+    --size992: 48.64px;
+    --size768: 60.488px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-family: 'DM Sans', sans-serif;
+}
